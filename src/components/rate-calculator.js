@@ -3,7 +3,6 @@ import React from 'react';
 import NumberInput from './number-input';
 import Output from './output';
 
-// Update this component
 export default class RateCalculator extends React.Component {
     constructor(props) {
         super(props);

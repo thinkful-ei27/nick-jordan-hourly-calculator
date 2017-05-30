@@ -1,6 +1,5 @@
 import React from 'react';
 
-// Update this component
 export default function NumberInput(props) {
     return (
         <div className="form-group">
